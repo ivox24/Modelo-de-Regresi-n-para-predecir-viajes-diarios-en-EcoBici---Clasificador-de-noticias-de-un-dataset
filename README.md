@@ -7,8 +7,8 @@ Enunciado:
 Elaborar un modelo de regresión para predecir el número de usos diarios del sistema de Ecobici. El dataset clima_ecobici contiene información registrada por la estación meteorológica del Aeroparque durante todos los días del 2022 y el número total de usos diarios de bicicletas del sistema Ecobici en la CABA. Las variables del dataset son:
 
   date: fecha
-  tavg: temperatura promedio (en grados Celcius)
-  tmin: temperatura mínima (en grados Celcius)
+  tavg: temperatura promedio (en grados Celcius) \n
+  tmin: temperatura mínima (en grados Celcius) \n
   tmax: temperatura máxima (en grados Celcius)
   prcp: precipitación (en mm)
   wdir: dirección del viento
